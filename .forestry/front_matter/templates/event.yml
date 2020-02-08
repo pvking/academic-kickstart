@@ -69,3 +69,5 @@ fields:
   type: boolean
   label: featured
   description: You can filter by featured content on your homepage
+pages:
+- content/project/pokus.md
