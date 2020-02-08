@@ -11,7 +11,7 @@ location = ""
 publishDate = 2020-02-07T23:00:00Z
 subtitle = "titulek pokusu"
 title = "pokus"
-url_code = ""
+url_code = "file:vanocni_darkovy_poukaz_vzor_ke_stažení"
 url_slides = ""
 url_video = ""
 [image]
